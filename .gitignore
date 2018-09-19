@@ -1,0 +1,12 @@
+# ENV
+bin/
+lib/
+share/
+include/
+
+#logs
+
+pip-selfcheck.json
+
+#unused app
+src/sample
